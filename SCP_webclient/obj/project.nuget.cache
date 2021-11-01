@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0awYipV9AYbAwhrLKqzrfa98ksiT4JoQK8yKc3Aoy0ZWEmcRGPqodNlZCmqpvunapjED+/GnURuO63IXmjwaiA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dell\\source\\repos\\SCP_webclient\\SCP_webclient.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dell\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.11.1\\microsoft.visualstudio.azure.containers.tools.targets.1.11.1.nupkg.sha512"
+  ],
+  "logs": []
+}
